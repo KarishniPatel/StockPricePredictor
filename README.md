@@ -1,0 +1,2 @@
+# StockPricePredictor
+Built a Stock Price Predictor that predicts Apple stock prices for a week using Recurrent Neural Network Regression using time series analysis method with 0.016 error margin.  Employed the LTSM architecture for RNN since that optimizes classification and predictions when using time series data to avoid issues arising from potentially unknown discrepancies in events in data based on time series.
